@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/trello_todos/static/css/main.3520f565.css",
+    "main.js": "/trello_todos/static/js/main.d484f0cb.js",
+    "static/media/icon-light-theme.svg": "/trello_todos/static/media/icon-light-theme.b98efecd506358014a7ae1eadb34e36c.svg",
+    "static/media/icon-hide-sidebar.svg": "/trello_todos/static/media/icon-hide-sidebar.0e2c68ccd652fb10d8ba0c0c7f3a2f60.svg",
+    "index.html": "/trello_todos/index.html",
+    "static/media/icon-dark-theme.svg": "/trello_todos/static/media/icon-dark-theme.9812582fa58ec8051801098dbfd8c29d.svg",
+    "static/media/icon-board.svg": "/trello_todos/static/media/icon-board.29b48f5174742b4dd3a04f52d710293c.svg",
+    "static/media/icon-show-sidebar.svg": "/trello_todos/static/media/icon-show-sidebar.b186c9a8e4a2e4d7d83e0676d3e128fc.svg",
+    "static/media/logo-mobile.svg": "/trello_todos/static/media/logo-mobile.e60c2fbc3dcefa4256e0569ffba5e523.svg",
+    "static/media/icon-vertical-ellipsis.svg": "/trello_todos/static/media/icon-vertical-ellipsis.5c8996197d4a9dd7a7adfa20ce4abef9.svg",
+    "static/media/icon-cross.svg": "/trello_todos/static/media/icon-cross.d4ca9e0d2a82f7ea4ae08238a42f84ed.svg",
+    "static/media/icon-chevron-down.svg": "/trello_todos/static/media/icon-chevron-down.77595c15c9072ba0ef8a21ab5cc8c376.svg",
+    "static/media/icon-chevron-up.svg": "/trello_todos/static/media/icon-chevron-up.6918f905519d47589a92103b48580f45.svg",
+    "main.3520f565.css.map": "/trello_todos/static/css/main.3520f565.css.map",
+    "main.d484f0cb.js.map": "/trello_todos/static/js/main.d484f0cb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3520f565.css",
+    "static/js/main.d484f0cb.js"
+  ]
+}
